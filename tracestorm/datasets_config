@@ -1,0 +1,13 @@
+{
+    "sort": "random",
+    "dataset_1": {
+        "file_path": "../datasets/conversation_sample.csv",
+        "field": "user_message",
+        "select_ratio": 8
+    },
+    "dataset_2": {
+        "file_path": "../datasets/GPT4_coding_sample.csv",
+        "field": "user_prompt",
+        "select_ratio": 2
+    }
+}
